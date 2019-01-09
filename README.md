@@ -1,5 +1,5 @@
 # RGB-Colour-Guessing-Game
-The RGB Color Guessing Game is a website where user has to choose the correct color corresponding to the random RGB code. 
+The RGB Color Guessing Game is a game in which user has to choose the correct color corresponding to the random RGB code. 
 Front end technologies used are HTML5, CSS3 and JavaScript.
 
 THE GREAT RGB COLOR GUESSING GAME:
